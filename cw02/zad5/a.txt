@@ -1,0 +1,5 @@
+ta linia bedzie miec wiecej niz 50 znakow, co oznacza test przenoszenia linii
+ta bedzie miec mniej
+ta tez
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+123456789012345678901234567890123456789012345678901234567890
