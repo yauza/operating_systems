@@ -1,0 +1,1536 @@
+
+   STATIC   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.050000
+ System:        0.010000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.060000
+ System:        0.030000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.060000
+ System:        0.010000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.060000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.050000
+ System:        0.020000
+merge_files
+Real:        0.180000
+ User:        0.110000
+ System:        0.060000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.040000
+ System:        0.020000
+merge_files
+Real:        0.120000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   DYNAMIC   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.030000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.080000
+ System:        0.020000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.040000
+ System:        0.020000
+merge_files
+Real:        0.100000
+ User:        0.050000
+ System:        0.050000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.050000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.050000
+ System:        0.010000
+merge_files
+Real:        0.130000
+ User:        0.070000
+ System:        0.050000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.060000
+ System:        0.020000
+merge_files
+Real:        0.120000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.070000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   SHARED   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.060000
+ System:        0.010000
+merge_files
+Real:        0.130000
+ User:        0.060000
+ System:        0.060000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.050000
+ System:        0.020000
+merge_files
+Real:        0.110000
+ User:        0.050000
+ System:        0.050000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.070000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.030000
+ System:        0.030000
+merge_files
+Real:        0.130000
+ User:        0.070000
+ System:        0.050000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.120000
+ User:        0.090000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.050000
+ System:        0.030000
+merge_files
+Real:        0.130000
+ User:        0.080000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   STATIC   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.040000
+ System:        0.040000
+merge_files
+Real:        0.110000
+ User:        0.050000
+ System:        0.060000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.070000
+ System:        0.010000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.010000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.050000
+ System:        0.010000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.080000
+ System:        0.010000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.030000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.080000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.050000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.050000
+ System:        0.020000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.050000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.010000
+
+   DYNAMIC   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.040000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.120000
+ User:        0.100000
+ System:        0.020000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.030000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.080000
+ System:        0.010000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.010000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.040000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.070000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.060000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.030000
+ System:        0.040000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.130000
+ User:        0.100000
+ System:        0.040000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+
+   SHARED   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.060000
+ System:        0.020000
+merge_files
+Real:        0.160000
+ User:        0.090000
+ System:        0.060000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.070000
+ System:        0.020000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.050000
+ System:        0.020000
+merge_files
+Real:        0.120000
+ User:        0.070000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.100000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -O1   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.080000
+ User:        0.040000
+ System:        0.030000
+merge_files
+Real:        0.110000
+ User:        0.060000
+ System:        0.040000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.060000
+ System:        0.030000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+
+   with -0s   
+---------------
+
+merge_files
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.010000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.070000
+ User:        0.050000
+ System:        0.020000
+merge_files
+Real:        0.110000
+ User:        0.050000
+ System:        0.050000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+merge_files
+Real:        0.090000
+ User:        0.070000
+ System:        0.020000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.010000
+ User:        0.010000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000
+remove_block
+Real:        0.000000
+ User:        0.000000
+ System:        0.000000

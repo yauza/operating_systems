@@ -1,0 +1,3 @@
+Po wykonaniu operacji na różnych poziomach optymalizacji nie zauważam
+szczególnych różnic, możliwe, że wynika to z rozmiaru plików lub
+złożoności wykonywanych operacji.

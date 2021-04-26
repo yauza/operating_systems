@@ -1,0 +1,3 @@
+Po przeanalizowaniu raportu możemy zauważyć, że czasy wykonywania się operacji
+są bardzo małe, dla większości wręcz 0.0s. Delikatne różnice pojawiają się
+dopiero dla plików dużych (20000 linii).
