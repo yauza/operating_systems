@@ -1,0 +1,7 @@
+Dla fork():
+W potomku nie jest widoczny sygnał oczekujący w przodku(pending).
+Potomek dziedziczy ignorowanie, handlery oraz maskowanie.
+
+Dla exec():
+W potmoku jest widoczny sygnał oczekujący w przodku(pending).
+Potomek dziedziczy ignorowanie oraz maskowanie.
