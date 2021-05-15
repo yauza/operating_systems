@@ -1,0 +1,1 @@
+Pizzeria operuje płynniej dla mniejszych wartości N i M.
